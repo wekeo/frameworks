@@ -6,7 +6,7 @@ Repository containing common content for all ocean courses; e.g. images and conf
  
 This code is licensed under an MIT license. See file LICENCE.txt for details on the usage and distribution terms. No dependencies are distributed as part of this package.
 
-All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only
+All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only.
 
 ## Authors
 
