@@ -1,9 +1,9 @@
 # Component information
 name: frameworks
 description: Small repository of common content to be deployed across EUMETSAT training ocean code-base as a git submodule
-copyright: 2022 EUMETSAT
+copyright: 2023 EUMETSAT
 license_spdx: MIT
-date: 01-03-2022
+date: 06-02-2023
 home_url: https://gitlab.eumetsat.int/eumetlab/ocean/tools/frameworks
  
 # Package IPR documentation
