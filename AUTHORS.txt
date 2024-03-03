@@ -1,10 +1,12 @@
 # Copyright holder
-copyright: 2023 EUMETSAT
+copyright: 2024 EUMETSAT
 license: LICENSE.txt
  
 # List of development authors
 Ben Loveday (Innoflair UG / EUMETSAT)
 Hayley Evers-King (EUMETSAT)
+Antonio Vecoli (MEEO S.r.l / EUMETSAT)
+Gwenaël Le Bras (Météo France)
 
 # Support
 For all queries on this software package, please contact ops@eumetsat.int
