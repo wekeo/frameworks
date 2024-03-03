@@ -14,6 +14,7 @@ All product names, logos, and brands are property of their respective owners. Al
 * [**Hayley Evers-King**](mailto://ops@eumetsat.int) - [EUMETSAT](http://www.eumetsat.int)
 * [**Antonio Vecoli**](mailto://ops@eumetsat.int) - [EUMETSAT](http://www.eumetsat.int)
 * [**Gwenaël Le Bras**](mailto://ops@eumetsat.int) - [EUMETSAT](http://www.eumetsat.int)
+* [**Olivier Membrive**](mailto://ops@eumetsat.int) - [EUMETSAT](http://www.eumetsat.int)
 
 Please see the AUTHORS.txt file for more information.
 

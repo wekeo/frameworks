@@ -7,6 +7,7 @@ Ben Loveday (Innoflair UG / EUMETSAT)
 Hayley Evers-King (EUMETSAT)
 Antonio Vecoli (MEEO S.r.l / EUMETSAT)
 Gwenaël Le Bras (Météo France)
+Olivier Membrive (Météo France)
 
 # Support
 For all queries on this software package, please contact ops@eumetsat.int
